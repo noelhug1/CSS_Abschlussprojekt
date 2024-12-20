@@ -1,0 +1,30 @@
+body{
+    background-color: #1F2937;
+    color: white;
+    text-align: center;
+}
+img{
+    width: 300px;
+    height: auto;
+
+
+}
+.images{
+    display: flex;
+    flex-direction: row;
+    gap: 64px;
+    justify-content: center;
+    padding: 100px;
+}
+.images2{
+    display: flex;
+    flex-direction: row;
+    gap: 64px;
+    justify-content: center;
+    padding: 100px;
+
+}
+.text{
+    font-size: large;
+    font-weight: bold;
+}
